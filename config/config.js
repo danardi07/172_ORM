@@ -1,4 +1,4 @@
-require("dotenv").config();
+require("dotenv").config({ path: './.env' });
 
 const development = {
   username: process.env.DB_USER,
