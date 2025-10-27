@@ -1,0 +1,5 @@
+![1](screenshot/get.png)
+![2](screenshot/post.png)
+![3](screenshot/getbyid.png)
+![4](screenshot/put.png)
+![5](screenshot/delete.png)
